@@ -12,7 +12,7 @@
         "filePath": "GHTest.js",
         "cursor": {
           "lineNumber": 3,
-          "column": 49
+          "column": 52
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -23,7 +23,7 @@
           "name": "GHTest"
         },
         "triggers": [],
-        "lastUpdated": 1602049671642
+        "lastUpdated": 1602053534119
       }
     },
     "openFiles": [
@@ -52,7 +52,7 @@
     }
   },
   "PROJECT_META": {
-    "sigmaVersion": "1.4.3.1",
+    "sigmaVersion": "1.4.4",
     "projectName": "GHTest",
     "projectDescription": "",
     "projectVersion": "1.0.0",
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1602049678434
+    "lastSave": 1602053539844
   },
   "VCS_STATE": {
     "provider": "GitHub",
