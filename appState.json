@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "GHTest.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 47
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -22,7 +22,8 @@
           "layers": [],
           "name": "GHTest"
         },
-        "triggers": []
+        "triggers": [],
+        "lastUpdated": 1602046093519
       }
     },
     "openFiles": [
@@ -33,7 +34,7 @@
     "customTemplate": {
       "syntax": "JSON",
       "overrideDefault": false,
-      "dialect": null,
+      "dialect": "CloudFormation",
       "definitions": null
     },
     "envVariables": [
@@ -51,7 +52,7 @@
     }
   },
   "PROJECT_META": {
-    "sigmaVersion": "1.4.1.6",
+    "sigmaVersion": "1.4.4",
     "projectName": "GHTest",
     "projectDescription": "",
     "projectVersion": "1.0.0",
@@ -59,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1601983043992
+    "lastSave": 1602046112399
   },
   "VCS_STATE": {
     "provider": "GitHub",
